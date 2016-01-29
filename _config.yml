@@ -1,2 +1,3 @@
   name: beingy, simple blog
   markdown: kramdown
+  permalink: /blog/:year/:month/:day/:title
