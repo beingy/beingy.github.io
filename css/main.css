@@ -1,3 +1,9 @@
+/*//////// FONTS /////////*/
+
+
+
+/*////////// GLOBAL //////////*/
+
 body {
     margin: 60px auto;
     width: 70%;
@@ -39,10 +45,6 @@ p {
     line-height: 1.4em;
     color: #333;
 }
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
-}
 
 ul.posts {
     margin: 20px auto 40px;
@@ -64,4 +66,18 @@ ol.posts li {
 
 code {
   font-size: 1.5em;
+}
+
+/*//////// LAYOUT /////////*/
+
+.wrapper {
+   width: 960px;
+   margin: 0 auto;
+}
+
+/*////////// FOOTER //////////*/
+
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
 }
