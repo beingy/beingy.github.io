@@ -51,6 +51,11 @@ ul.posts {
     font-size: 1.5em;
 }
 
+.posts ul {
+    margin: 20px auto 40px;
+    font-size: 1.5em;
+}
+
 ul.posts li {
     list-style: none;
 }
@@ -70,8 +75,9 @@ ol.posts {
     font-size: 1.5em;
 }
 
-ol.posts li {
-    list-style: none;
+.posts ol {
+    margin: 20px auto 40px;
+    font-size: 1.5em;
 }
 
 code {
