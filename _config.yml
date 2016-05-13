@@ -1,3 +1,3 @@
-  name: beingy, simple blog
+  name: Being's Learn Workspace
   markdown: kramdown
-  permalink: /blog/:year/:month/:day/:title
+  permalink: /blog/:title
