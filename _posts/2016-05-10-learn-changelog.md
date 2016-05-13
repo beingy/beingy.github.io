@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /:categories/:title.html
+permalink: /blog/:title.html
 title: "Learn IDE Changelog (Build 1.3.0-bff9a93)"
 date: 2016-05-10
 
