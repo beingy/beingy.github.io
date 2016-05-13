@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Learn IDE Changelog (Build 1.3.0-bff9a93)'
-date: 2016-05-10
+title: Learn IDE Changelog, Build 1.3.0-bff9a93
+date: 2016-05-10 12:00:00 -0500
 
 ---
 
