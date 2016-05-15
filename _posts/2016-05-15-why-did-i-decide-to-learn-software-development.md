@@ -10,8 +10,8 @@ I wish I didn\'t have to think about the reasons that led me to my decision to l
 
 There is no inspirational story to tell; or, an elaborate journey taken to get here. There is just me; and, the hard work that I put into learning to code.
 
-I do want to mention my number one reason on my decision to learn software developement is [Flatiron School](http://flatironschool.com/) and getting into the [Learn Verified](learn.co/with/beingy) program made everything possible. Getting into the Learn Verified program is like a space ship that just offered me a seat for an adventure of a lifetime.  I just know I need to get on and do my best and worry about the rest later.
+I do want to mention easily my top reason on my decision to learn software developement was [Flatiron School](http://flatironschool.com/). Getting accepted into the [Learn Verified](learn.co/with/beingy) program was like a space ship had just offered me a seat for an adventure of a lifetime.  I just know I need to get on and do my best and worry about the rest later.
 
-I hope a later, wiser version of me will come back soon to enlighten my current self who rather be coding than blogging.
+I hope a later, wiser version of me will come back soon to enlighten my current self who would rather be coding than blogging.
 
 *Learn Love Code*
