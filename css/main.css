@@ -5,7 +5,7 @@
 /*////////// GLOBAL //////////*/
 
 body {
-    font-size: 1.5em;
+    font-size: 1.2em;
     margin: 60px auto;
     width: 70%;
 }
@@ -32,34 +32,34 @@ a:hover {
 }
 
 h1 {
-    font-size: 2.5em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
-
-h2 {
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
-h3 {
+h2 {
     font-size: 1.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
+h3 {
+    font-size: 1.2em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
 p {
-    font-size: 1.5em;
-    line-height: 1.4em;
+    font-size: 1.2em;
+    line-height: 1.1em;
     color: #333;
 }
 
 ul.posts {
     margin: 20px auto 40px;
-    font-size: 1.5em;
+    font-size: 1.2em;
 }
 
 .posts ul {
     margin: 20px auto 40px;
-    font-size: 1.5em;
+    font-size: 1.2em;
 }
 
 ul.posts li {
@@ -68,7 +68,7 @@ ul.posts li {
 
 ul.projects {
     margin: 20px auto 40px;
-    font-size: 1.5em;
+    font-size: 1.2em;
 }
 
 ul.projects li {
@@ -78,16 +78,16 @@ ul.projects li {
 
 ol.posts {
     margin: 20px auto 40px;
-    font-size: 1.5em;
+    font-size: 1.2em;
 }
 
 ol {
     margin: 20px auto 40px;
-    font-size: 1.5em;
+    font-size: 1.2em;
 }
 
 code {
-  font-size: 1.5em;
+  font-size: 1.2em;
 }
 
 /*//////// LAYOUT /////////*/

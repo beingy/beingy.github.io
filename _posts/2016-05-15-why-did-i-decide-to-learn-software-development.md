@@ -10,7 +10,7 @@ I wish I didn\'t have to think about the reasons that led me to my decision to l
 
 There is no inspirational story to tell; or, an elaborate journey taken to get here. There is just me; and, learning to code one lesson at a time.
 
-Without a doubt, my decision to learn software developement was all due to [Flatiron School](http://flatironschool.com/). Getting accepted into the [Learn Verified](http://learn.co/with/beingy) program is like a space ship just offered me a seat for an adventure of a lifetime.  I just know I need to get on and do my best and worry about the rest later.
+Without a doubt, my decision to learn software development was all due to [Flatiron School](http://flatironschool.com/). Getting accepted into the [Learn Verified](http://learn.co/with/beingy) program is like a space ship just offered me a seat for an adventure of a lifetime.  I just know I need to get on and do my best and worry about the rest later.
 
 I hope a later wiser version of me will come back in 7 months and have stories to tell.  Tell me that the hard work was worth every bit of it and more.  Tell me that I have found a job in software development and by the way I am loving it.  Tell me that I was right this *has* changed my life for the better.  Tell me that I am now helping others to learn how to code.  Tell me that I am contributing to the open source community. Tell me that it didn't mattered *why* I decided to learn software development because all it mattered was that I *did*.
 
