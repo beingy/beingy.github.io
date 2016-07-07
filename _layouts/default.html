@@ -3,17 +3,16 @@
     	<head>
             <title>{{ page.title }}</title>
             <!-- link to main stylesheet -->
+
+          <!-- Temporarily disabled CSS block
             <link rel="stylesheet" type="text/css" href="/css/main.css">
+          -->
 	</head>
     	<body>
             <nav>
-                <ul>
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/blog/">Blog</a></li>
-                    <li><a href="/projects/">Projects</a></li>
-                    <li><a href="https://github.com/beingy/beingy.github.io">[View on GitHub]</a>
-                </ul>
+              <a name="top"></a>{% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %}{% for p in navigation_pages %}{% if p.navigation_weight %}<a href="{{ p.url }}">{% if p.url == page.url %}<strong>{% endif %}{{ p.navi_title }}{% if p.url == page.url %}</strong>{% endif %}</a>&nbsp;{% endif %}{% endfor %}
             </nav>
+            <hr>
             <div class="container">
 
             {{ content }}
@@ -21,10 +20,9 @@
             </div>
             <!-- /.container -->
             <footer>
-            	<ul>
-                    <li><a href="https://github.com/beingy">GitHub</a></li>
-                    <li><a href="https://learn.co/blog">Learn.co - Blog Dashboard</a></li>
-            	</ul>
+              {% if page.navi_title == 'Blog Post' %}<a href="#top">Top</a>{% endif %}
+              <hr>
+              <a href="https://github.com/beingy">GitHub</a>&nbsp;<a href="https://learn.co/beingy">Learn.co</a>
             </footer>
     	</body>
     </html>

@@ -5,7 +5,7 @@
 /*////////// GLOBAL //////////*/
 
 body {
-    font-size: 1.1em;
+    font-size: 1em;
     margin: 60px auto;
     width: 70%;
 }
@@ -25,7 +25,6 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #999;
-    font-size: 1.1em;
 }
 
 a:hover {
@@ -33,34 +32,33 @@ a:hover {
 }
 
 h1 {
-    font-size: 2em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
-
-h2 {
     font-size: 1.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
-h3 {
+h2 {
     font-size: 1.2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
-p {
+h3 {
     font-size: 1.1em;
-    line-height: 1em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
+p {
+    font-size: 1em;
     color: #333;
 }
 
 ul.posts {
     margin: 20px auto 40px;
-    font-size: 1.2em;
+    font-size: 1em;
 }
 
 .posts ul {
     margin: 20px auto 40px;
-    font-size: 1.2em;
+    font-size: 1em;
 }
 
 ul.posts li {
@@ -69,7 +67,7 @@ ul.posts li {
 
 ul.projects {
     margin: 20px auto 40px;
-    font-size: 1.2em;
+    font-size: 1em;
 }
 
 ul.projects li {
@@ -79,16 +77,16 @@ ul.projects li {
 
 ol.posts {
     margin: 20px auto 40px;
-    font-size: 1.2em;
+    font-size: 1em;
 }
 
 ol {
     margin: 20px auto 40px;
-    font-size: 1.2em;
+    font-size: 1em;
 }
 
 code {
-  font-size: 1.2em;
+  font-size: 1em;
 }
 
 /*//////// LAYOUT /////////*/
