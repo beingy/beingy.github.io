@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blog
+title: Being's Blog
 navi_title: Blog
 permalink: /blog/
 navigation_weight: 3
@@ -10,7 +10,7 @@ navigation_weight: 3
     <ul class="posts">
 
       {% for post in site.posts %}
-        <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+        <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> - {{ post.date | date: '%B %-d, %Y' }}<br>
         </li>
       {% endfor %}
 

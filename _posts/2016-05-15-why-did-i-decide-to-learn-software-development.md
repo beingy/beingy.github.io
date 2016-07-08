@@ -3,9 +3,10 @@ layout: post
 title: Why did I decide to learn software development?
 navi_title: Blog Post
 date: 2016-05-15 12:00:00 -0500
+excerpt_separator: <!--more-->
 ---
 
-Google [reasons to learn software development](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=reasons+to+learn+software+development) and you will get over 75 million results in under half a second.
+Google [reasons to learn software development](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=reasons+to+learn+software+development) and you will get over 75 million results in under half a second.<!--more-->
 
 I wish I didn\'t have to think about the reasons that led me to my decision to learn software development for fear of second-guessing myself or getting side-tracked to day dream about the future.  I have dwelled on this question for weeks and I would rather be learning.
 
