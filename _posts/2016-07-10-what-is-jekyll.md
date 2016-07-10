@@ -7,7 +7,7 @@ date: 2016-07-10 12:00:00 -0500
 excerpt_separator: <!--more-->
 ---
 
-*This is the first in a planned series of mini-posts learning Jekyll*
+*This is #1 in a planned series of mini-posts learning Jekyll*
 
 Jekyll is like Wordpress stripped of all its strengths and weaknesses and a non-existent user interface.  It is a static site generator meaning a website running on Jekyll generally spit out only simple HTML codes.  And, simple means speediness.<!--more-->
 
