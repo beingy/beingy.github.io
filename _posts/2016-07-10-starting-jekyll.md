@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is Jekyll?
+title: Starting Jekyll
 navi_title: Blog Post
 series_tag: Jekyll
 date: 2016-07-10 12:00:00 -0500
