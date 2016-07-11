@@ -242,56 +242,47 @@ Once I have built the CLI interface with stub information. I'm ready to connect 
 
 ### NPR website
 
-couldn't scrape npr website
-found web.archive.org
-still need to figure out a way to scrape npr website
-found NPR's Visual team's github (interesting find)
-couldn't decipher NPR website's repo
-found NPR API
-more research needed
++ couldn't scrape npr website
++ found web.archive.org
++ still need to figure out a way to scrape npr website
++ found NPR's Visual team's github (interesting find)
++ couldn't decipher NPR website's repo
++ found NPR API
++ more research needed
 
 ### Amazon.com website
 
-tried a shortcut by scraping NPR's amazon links
-then found amazon.com/dp
-then found amazon.com/search
++ tried a shortcut by scraping NPR's amazon links
++ then found amazon.com/dp
++ then found amazon.com/search
 
 ## Publish Gem
 
-went smoothly with neighbor's help
-came to the conclusion that it is scary and nerve wrecking when things go smoothly
-better to see errors and fix them then to not see any errors - TDD
-doesn't feel like we are learning when things just working
++ went smoothly with neighbor's help
++ came to the conclusion that it is scary and nerve wrecking when things go smoothly
++ better to see errors and fix them then to not see any errors - TDD
++ doesn't feel like we are learning when things just working
 
 ## Updating Gem
 
-update files, update version
-commit, push git repo
-bundle exec rake release
++ update files, update version
++ commit, push git repo
++ `bundle exec rake release`
 
 # Breadth vs Depth
 
-trying to add too many features before a fully working prototype
-had to scale back and discipline myself to focus on shipping one working feature at a time
++ trying to add too many features before a fully working prototype
++ had to scale back and discipline myself to focus on shipping one working feature at a time
 
 # Challenges
 
-Scraping the invisible
-Gem executable
-
-# Walk-through Demo
-
-2-3 minute walkthrough of Gem
-installation
-run program
-try features
-talk about interesting little details
-exit and thank you
++ Scraping the invisible
++ Gem executable
 
 # Conclusion
 
-Felt good to have a good handle of Ruby to make progress in the CLI data gem.
-Almost at every obstacle, able to look up resources, decipher quickly and implement into code to resolve the obstacle.
-Felt the obsession to improve or add new feature to a working gem.
-Found it more interesting to work on fellow student's project to figure out challenges together and create new feature together.
-Learned so much about myself and also feel so empowering to have achieved this milestone.
++ Felt good to have a good handle of Ruby to make progress in the CLI data gem.
++ Almost at every obstacle, able to look up resources, decipher quickly and implement into code to resolve the obstacle.
++ Felt the obsession to improve or add new feature to a working gem.
++ Found it more interesting to work on fellow student's project to figure out challenges together and create new feature together.
++ Learned so much about myself and also feel so empowering to have achieved this milestone.
