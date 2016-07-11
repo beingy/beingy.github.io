@@ -10,7 +10,7 @@ So it finally happened.  I've created and published my first CLI data gem on [Ru
 
 I've also created my first walk-through video to demo how my CLI data gem works. Please see below.  Enjoy.
 
-*Insert Youtube walk-through here*
+{% include youtube_embed.html id="tHA7F2oXPg4" %}
 
 # How to build a CLI Data Gem
 
