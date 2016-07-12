@@ -50,4 +50,4 @@ But, apparently we can't just insert this code into Jekyll's blog post using mar
 
 + For more reference, check out [Adam Harris's guide: How to Easily Embed YouTube Videos in Jekyll Sites Without a Plugin](http://www.adamwadeharris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin/)
 
-+ Liquid FYI: In order to show liquid codes as an example, I had to wrap the liquid codes with `{{"{%raw"}}%}` and `{{"{%endraw"}}%}` liquid codes.  More info here: [Display Liquid code in Jekyll](https://truongtx.me/2013/01/09/display-liquid-code-in-jekyll)
++ Liquid FYI: In order to show liquid codes as an example, I had to wrap the liquid codes with `{{"{%raw"}}%}` and `{{"{%endraw"}}%}` liquid codes.  More info here: [Display Liquid code in Jekyll](https://truongtx.me/2013/01/09/display-liquid-code-in-jekyll).  *It is not fun to show liquid codes in markdown.*
