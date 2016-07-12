@@ -10,7 +10,7 @@
 	</head>
     	<body>
             <nav>
-              <a name="top"></a>{% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %}{% for p in navigation_pages %}{% if p.navigation_weight %}<a href="{{ p.url }}">{% if p.url == page.url %}<strong>{% endif %}{{ p.navi_title }}{% if p.url == page.url %}</strong>{% endif %}</a>&nbsp;{% endif %}{% endfor %}
+              <a name="top"></a>{% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %}{% for p in navigation_pages %}{% if p.navigation_weight %}<a href="{{ p.url }}">{% if p.url == page.url %}<strong>{% endif %}{% if p.navi_title == 'Blog' and page.navi_title == 'Blog Post' %}{{ p.navi_title }} <strong>Posts</strong>{% elsif p.navi_title %}{{ p.navi_title }}{% endif %}{% if p.url == page.url %}</strong>{% endif %}</a>&nbsp;{% endif %}{% endfor %}
             </nav>
             <hr>
             <div class="container">
