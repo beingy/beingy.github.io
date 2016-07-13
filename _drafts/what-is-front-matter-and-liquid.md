@@ -7,4 +7,4 @@ date:
 excerpt_separator: <!--more-->
 ---
 
-*This is #2 in a planned series of mini-posts learning Jekyll*
+*This is #3 in a planned series of mini-posts learning Jekyll*
